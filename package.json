@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/b3ll3o/curso-manjo-nodejs/issues"
   },
-  "homepage": "https://github.com/b3ll3o/curso-manjo-nodejs#readme"
+  "homepage": "https://github.com/b3ll3o/curso-manjo-nodejs#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
 }
